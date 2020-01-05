@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMatrixMultiplication", "GenericMatrixMultiplication\GenericMatrixMultiplication.csproj", "{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Debug|x64.ActiveCfg = Debug|x64
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Debug|x64.Build.0 = Debug|x64
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Release|Any CPU.ActiveCfg = Release|x64
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Release|Any CPU.Build.0 = Release|x64
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Release|x64.ActiveCfg = Release|x64
+		{4A05964C-54F2-46CA-8D5D-E93E906F1AB9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0127DBD-3FF6-4922-BE41-EE564EC3B14E}
+	EndGlobalSection
+EndGlobal
